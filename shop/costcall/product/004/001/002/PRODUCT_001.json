@@ -1,0 +1,7 @@
+﻿enyo_jsonp_callback_0(
+{"items":{"page":1,"pages":393574,"perpage":3,"total":"1180722","item":[
+{"class4":"001","class2":"001","class5":"001","class3":"002","class1":"004","title":"제목11","contents":"contentsr글11","delivery_address":"delivery_address배송지111","ispublic":1,"isfriend":0,"isfamily":0},
+{"class4":"001","class2":"001","class5":"002","class3":"002","class1":"004","title":"제목22","contents":"contents글11","delivery_address":"delivery_address배송지222","ispublic":1,"isfriend":0,"isfamily":0},
+{"class4":"001","class2":"001","class5":"003","class3":"002","class1":"004","title":"제목33","contents":"contents글11","delivery_address":"ddelivery_address배송지333","ispublic":1,"isfriend":0,"isfamily":0}
+]},"stat":"ok"}
+)
